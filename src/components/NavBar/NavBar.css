@@ -1,0 +1,36 @@
+.navbar{
+    background-color:#120922fa; ;
+    padding: 10px 0;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+}
+
+.list-group-item {
+    cursor: pointer;
+    padding: 8px 10px;
+    background-color: transparent;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.container{
+    margin-left: 0;
+    margin-right: 100px;
+}
+
+h2{
+    margin: 0;
+    padding: 0 4px 6px 0;
+}
+
+
+.categorias{
+    background-color: rgb(139, 99, 133);
+}
+
+.list-group-item:hover{
+    background-color: rgba(206, 145, 197, 0.534);
+    transform: scale(1.1);
+}
+
